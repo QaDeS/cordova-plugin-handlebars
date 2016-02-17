@@ -1,0 +1,44 @@
+{
+  "name": "cordova-plugin-handlebars",
+  "version": "1.0.0",
+  "description": "Adds handlebars to your cordova project.",
+  "cordova": {
+    "id": "cordova-plugin-handlebars",
+    "platforms": [
+      "android",
+      "amazon-fireos",
+      "ubuntu",
+      "ios",
+      "blackberry10",
+      "wp7",
+      "wp8",
+      "firefoxos",
+      "windows8",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QaDeS/cordova-plugin-handlebars"
+  },
+  "keywords": [
+    "cordova",
+    "handlebars",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-amazon-fireos",
+    "cordova-ubuntu",
+    "cordova-ios",
+    "cordova-blackberry10",
+    "cordova-wp7",
+    "cordova-wp8",
+    "cordova-firefoxos",
+    "cordova-windows8",
+    "cordova-windows"
+  ],
+  "author": "Michael Klaus",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars-runtime": "~1.0.12"
+  }
+}
